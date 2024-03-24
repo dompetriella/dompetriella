@@ -3,7 +3,7 @@ Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 <p align="left">
 
-<h1>Welcome! <iframe src="https://giphy.com/embed/whhRkilADNaOk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-3d-frog-whhRkilADNaOk">via GIPHY</a></p></h1>
+<h1>Welcome! <iframe src="https://giphy.com/embed/whhRkilADNaOk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><</h1>
 
 <h2>Some Tech I love 💚</h2>
 
