@@ -1,7 +1,8 @@
 
 <p align="left">
 
-<h1>Welcome! <br /> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="120" height="100" alt="Frog is dancing and waving" /> </h1>
+<h1>Welcome! <br/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="140" height="100" alt="Frog is dancing and waving" /> <br/> My name is Dom </br> I'm a web, app, game, backend- you name it- developer</h1>
+
 
 <h2>Some Tech I love 💚</h2>
 
