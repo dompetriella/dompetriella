@@ -1,10 +1,7 @@
 
-* Swing by the 'ol website [Website](http://dompetriella.com)
+Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   My name is Dom
 
 <p align="left">
-
-<p style="font-size:36px;"> Welcome! </p>
-<h2>My name is Dom</h2>
 
 <h2>Some Tech I love 💚</h2>
 
