@@ -1,9 +1,7 @@
 
-Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   My name is Dom
-
 <p align="left">
 
-<h1>Welcome! <iframe src="https://giphy.com/embed/whhRkilADNaOk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><</h1>
+<h1>Welcome! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" /> </h1>
 
 <h2>Some Tech I love 💚</h2>
 
