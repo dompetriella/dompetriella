@@ -1,7 +1,7 @@
 
 <p align="left">
 
-<h1>Welcome!<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="200" height="175" alt="Frog is dancing and waving" /></h1>
+<h1>Welcome! <br/><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="300" height="175" alt="Frog is dancing and waving" /></h1>
 
 <h4>I'm an app, web, backend, game - <i>you name it</i> - Developer</h4>
 <h4>Check out my <a href="https://www.dompetriella.com/">website</a> if you're interested in what I bring to the table</h4></a>
