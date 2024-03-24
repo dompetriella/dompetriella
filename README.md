@@ -1,7 +1,7 @@
 
 <p align="left">
 
-<h1>Welcome! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="90" height="75" alt="Frog is dancing and waving" /> </h1>
+<h1>Welcome! <br></br> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="120" height="100" alt="Frog is dancing and waving" /> </h1>
 
 <h2>Some Tech I love 💚</h2>
 
