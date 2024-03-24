@@ -21,7 +21,7 @@ Web Developer, App Developer, Game Developer <i>...developer</i>
 
 <h2>Game Dev</h2>
 
-<a href="https://godotengine.org/" target="\_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png" width="36" height="36" alt="Godot" /><a href="https://www.aseprite.org/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png" width="36" height="36" alt="Aseprite" /><a href="https://www.blender.org/" target="\_blank" rel="noreferrer"><img src="https://logodix.com/logo/1655928.png" width="36" height="36" alt="Blender" />
+<a href="https://godotengine.org/" target="\_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/godot-game-engine-icon.png" width="36" height="36" alt="Godot" /><a href="https://www.aseprite.org/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png" width="36" height="36" alt="Aseprite" />
 <br></br>
 
 <h2>Backend</h2>
