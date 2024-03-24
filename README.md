@@ -4,7 +4,7 @@
 <h1>Welcome! <br/> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlmZThwdGVmcmhvNmQ5cnZuNGZ1Y2VlcXliZHZ4eGM4dXFzNXcwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whhRkilADNaOk/giphy.gif" width="140" height="100" alt="Frog is dancing and waving" /> <br/> My name is Dom</h1>
 
 <h3>I'm an app, web, backend, game - you name it - Developer</h3>
-<h3>Check out my <a href="https://www.dompetriella.com/" website /a> if you're interested in what I bring to the table</h3>
+<a href="https://www.dompetriella.com/"><h3>Check out my website > if you're interested in what I bring to the table</h3></a>
 
 <h2>Some Tech I love 💚</h2>
 
