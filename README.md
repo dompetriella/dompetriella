@@ -3,7 +3,7 @@
 
 <p align="left">
 
-<div style="font-size=24">Welcome!</div>
+<div style="font-size=36px">Welcome!</div>
 <h2>My name is Dom</h2>
 
 <h2>Some Tech I love 💚</h2>
