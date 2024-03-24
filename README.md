@@ -14,7 +14,7 @@
 
 <h3>App Dev</h3>
 
-<a href="https://dart.dev/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /><a href="https://flutter.dev/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+<a href="https://dart.dev/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /><a href="https://flutter.dev/" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /><a href="https://rive.app/" target="\_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/58453772?s=280&v=4" width="36" height="36" alt="Rive" />
 
 <h3>Game Dev</h3>
 
